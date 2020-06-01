@@ -5,7 +5,7 @@ Input Format://///
 First line will have an integer ‘t’, denoting the number of test cases.
 Next line will have two space separated integers denoting the value of ‘i’ and ‘p’ ///respectively.
 Output Format:///
-Print ‘t’ lines containing single integer denoting the student number.//
+Print ‘t’ lines containing single integer denoting the student number.////
 Constraints://///////
 1 <= t <= 10^5////
 0 <= i <= 11
