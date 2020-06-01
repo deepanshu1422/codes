@@ -4,7 +4,7 @@ This list is circular, means that 11 will follow 0 again. You will be g///iven t
 Input Format://///
 First line will have an integer ‘t’, denoting the number of test cases.
 Next line will have two space separated integers denoting the value of ‘i’ and ‘p’ ///respectively.
-Output Format:
+Output Format:///
 Print ‘t’ lines containing single integer denoting the student number.//
 Constraints://////
 1 <= t <= 10^5////
