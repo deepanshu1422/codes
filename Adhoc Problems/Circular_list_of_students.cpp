@@ -3,7 +3,7 @@
 This list is circular, means that 11 will follow 0 again. You will be given the student number ‘i’ and some position ‘p’. You will have to tell that if the list will start from (i+1)th student, then which student will be at pth position.
 Input Format://
 First line will have an integer ‘t’, denoting the number of test cases.
-Next line will have two space separated integers denoting the value of ‘i’ and ‘p’ respectively.
+Next line will have two space separated integers denoting the value of ‘i’ and ‘p’ ///respectively.
 Output Format:
 Print ‘t’ lines containing single integer denoting the student number.
 Constraints://////
