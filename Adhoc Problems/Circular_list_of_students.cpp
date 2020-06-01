@@ -7,7 +7,7 @@ Next line will have two space separated integers denoting the value of ‘i’ a
 Output Format:
 Print ‘t’ lines containing single integer denoting the student number.
 Constraints://
-1 <= t <= 10^5
+1 <= t <= 10^5//
 0 <= i <= 11
 1 <= p <= 12
 Sample Input:
