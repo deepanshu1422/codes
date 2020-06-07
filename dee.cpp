@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 int main()
-{
+{//
     int n;
     cout << "How many elements do you want to enter \n";
     cin >> n;
